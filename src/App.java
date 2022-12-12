@@ -5,7 +5,7 @@ public class App {
         System.out.println("Nome do profissional: " + dadosDesenvolvedor.Nome);
         System.out.println("Salario desejado: " + dadosDesenvolvedor.SalarioMensalDesejado);
         System.out.println("Quantidade de horas no dia: " + dadosDesenvolvedor.HorasDia);
-        System.out.println("Valor hora: " + dadosDesenvolvedor.Valorhora);
+        System.out.println("Valor hora: " + Math.round(dadosDesenvolvedor.HorasTrabalhadasMes()));
 
         //1 3(1 = 8, 2 = 12, 3 = 16)
         ItemSistema itemEntradasSaidas = new ItemSistema();
@@ -44,6 +44,5 @@ public class App {
 
         System.out.println(" ");
         System.out.println("Valor total do sistema: " + valorsistema + porcentagemAdd);
-    
     }
 }
