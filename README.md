@@ -1,6 +1,14 @@
-## Getting Started
+## Sobre o projeto
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O presente projeto é um exercicio para a turma de Programação de Soluções Computacionais que deverá calcular o valor de um sistema.
+
+## Integrantes
+
+João Paulo Sudré - 322210831
+Tiago Aparecido Da Silva - 32223584
+Camila Cristina Ferreira Nunes - 32228575
+Gabriel Souza Paes - 32224607
+Gabriel Lucas De Castro - 32227825
 
 ## Folder Structure
 
